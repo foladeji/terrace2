@@ -1,0 +1,221 @@
+# Blender MTL File: 'converter.blend'
+# Material Count: 17
+
+newmtl Beech_Bark
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-zqj3u1ga\\beech_bark_n.png
+map_Kd C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-u1nyco29\\beech_bark_d.png
+map_d C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-u1nyco29\\beech_bark_d.png
+
+newmtl Beech_Leaves
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-ktef9zcx\\beech_leaf_n.png
+map_Kd C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-04qehp9p\\beech_leaf_d_copy_copy.png
+map_d C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-04qehp9p\\beech_leaf_d_copy_copy.png
+
+newmtl Birch_Leaves.003
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-esn_ku_3\\birch_leaf_n.png
+map_Kd C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-sw1_zp7s\\birch_leaf_d_copy.png
+map_d C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-sw1_zp7s\\birch_leaf_d_copy.png
+
+newmtl Birch_Trunk
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-ba36aexk\\birch_trunk_n.png
+map_Kd C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-cetbxf4_\\birch_trunk_d.png
+map_d C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-cetbxf4_\\birch_trunk_d.png
+
+newmtl Maple_trunk
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-on7irvzn\\maple_trunk_n.png
+map_Kd C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-1j0av5s4\\maple_trunk_d.png
+map_d C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-1j0av5s4\\maple_trunk_d.png
+
+newmtl Oak_leaves
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-0_wul634\\oak_leaf_n.png
+map_Kd C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-txcqb08s\\oak_leaf_d_copy.png
+map_d C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-txcqb08s\\oak_leaf_d_copy.png
+
+newmtl Oak_trunk
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 2.000000 C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-eeq1o6c1\\oak_trunk_n.png
+map_Kd C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-1rilnsrr\\oak_trunk_d.png
+map_d C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-1rilnsrr\\oak_trunk_d.png
+
+newmtl Spruce_branches
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-u1j2syf1\\spruce_branch_n.png
+map_Kd C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-vlz5u51z\\spruce_branch_d_copy.png
+map_d C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-vlz5u51z\\spruce_branch_d_copy.png
+
+newmtl Spruce_trunk
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-9yghixcl\\spruce_trunk_n.png
+map_Kd C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-mv1not12\\spruce_trunk_d.png
+map_d C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-mv1not12\\spruce_trunk_d.png
+
+newmtl Willow_branches
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-yy2r1qfs\\Willow_branch_n.png
+map_Kd C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-fg6d85f9\\willow_branch_d_copy.png
+map_d C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-fg6d85f9\\willow_branch_d_copy.png
+
+newmtl Willow_trunk
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-hzj7ot56\\Willow_trunk_n.png
+map_Kd C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-wi64zmgm\\Willow_trunk_d.png
+map_d C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-wi64zmgm\\Willow_trunk_d.png
+
+newmtl elm_leaves
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-z8t4gb45\\elm_leaf_n.png
+map_Kd C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-c5tqojvo\\elm_leaf_d_copy.png
+map_d C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-c5tqojvo\\elm_leaf_d_copy.png
+
+newmtl elm_trunk
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-2nl9ulzv\\elm_trunk_n.png
+map_Kd C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-c5tqojvo\\elm_leaf_d_copy.png
+map_d C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-c5tqojvo\\elm_leaf_d_copy.png
+
+newmtl elm_trunk.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-2nl9ulzv\\elm_trunk_n.png
+map_Kd C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-pfzb78_1\\elm_trunk_d.png
+map_d C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-pfzb78_1\\elm_trunk_d.png
+
+newmtl fir_leaf
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-d1ccv2_k\\fir_branch_n.png
+map_Kd C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-asyiumx1\\fir_branch_d_copy.png
+map_d C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-asyiumx1\\fir_branch_d_copy.png
+
+newmtl fir_trunk
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 3.000000 C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-hupuzzr3\\fir_trunk_n.png
+map_Kd C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-_56t7aqo\\fir_trunk_d.png
+map_d C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-_56t7aqo\\fir_trunk_d.png
+
+newmtl vray_01_-_Default.001
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\faith\\AppData\\Local\\Temp\\gltfimg-7bsn7d30\\leafg7.jpg
