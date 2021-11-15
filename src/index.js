@@ -102,7 +102,7 @@ class App {
         console.log(this.camera.position)
 
         this.dolly = new THREE.Object3D();
-        this.dolly.position.set(-20,12,-95);
+        this.dolly.position.set(-20,9,-95);
         this.dolly.add(this.camera);
         this.dummyCam = new THREE.Object3D();
         this.camera.add(this.dummyCam);
