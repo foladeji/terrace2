@@ -661,7 +661,7 @@ this.setupXR();
     
     createUI() {
         this.ui = new CanvasUI(  );
-        this.ui.updateElement("body", "Terrace 2" );
+        this.ui.updateElement("body", "NORTH TERRACE" );
         this.ui.update();
         this.ui.mesh.position.set( 0, -.5, -1.2 );
         this.scene.add( this.ui.mesh );
