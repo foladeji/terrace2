@@ -649,12 +649,12 @@ this.setupXR();
 
     
     initScene(){
-        this.room = new THREE.LineSegments(
-					new BoxLineGeometry( 6, 6, 6, 6, 6, 6 ),
-					new THREE.LineBasicMaterial( { color: 0x808080 } )
-				);
-        this.room.geometry.translate( 0, 3, 0 );
-        this.scene.add( this.room );
+        // this.room = new THREE.LineSegments(
+		// 			new BoxLineGeometry( 6, 6, 6, 6, 6, 6 ),
+		// 			new THREE.LineBasicMaterial( { color: 0x808080 } )
+		// 		);
+        // this.room.geometry.translate( 0, 3, 0 );
+        // this.scene.add( this.room );
         
         this.createUI();
     }
